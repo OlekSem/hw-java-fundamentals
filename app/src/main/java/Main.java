@@ -184,18 +184,18 @@ public class Main {
 
         // Task 11
 
-        drawLine('h', 10, '&');
-        drawLine('v', 4, '%');
+        // drawLine('h', 10, '&');
+        // drawLine('v', 4, '%');
 
         // Task 12
 
-        int[] arr = {5, -2, 10, 3, 0, 7};
+        // int[] arr = {5, -2, 10, 3, 0, 7};
 
-        System.out.println(Arrays.toString(arr));
-        bubbleSort(arr, "asc");
-        System.out.println(Arrays.toString(arr));
-        bubbleSort(arr, "desc");
-        System.out.println(Arrays.toString(arr));
+        // System.out.println(Arrays.toString(arr));
+        // bubbleSort(arr, "asc");
+        // System.out.println(Arrays.toString(arr));
+        // bubbleSort(arr, "desc");
+        // System.out.println(Arrays.toString(arr));
     }
 
     public static void bubbleSort(int[] arr, String order) {
